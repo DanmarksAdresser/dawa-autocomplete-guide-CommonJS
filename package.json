@@ -1,0 +1,25 @@
+{
+  "name": "dawa-autocomplete-guide-commonjs",
+  "version": "1.0.0",
+  "description": "Eksempel på CommonJS brug af DAWA-Autocomplete2",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanmarksAdresser/dawa-autocomplete-guide-CommonJS.git"
+  },
+  "author": "Finn Jordal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanmarksAdresser/dawa-autocomplete-guide-CommonJS/issues"
+  },
+  "homepage": "https://github.com/DanmarksAdresser/dawa-autocomplete-guide-CommonJS",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  },
+  "dependencies": {
+    "dawa-autocomplete2": "^0.10.0"
+  }
+}
