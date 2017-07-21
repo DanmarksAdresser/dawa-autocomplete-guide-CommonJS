@@ -1,5 +1,5 @@
 # dawa-autocomplete-guide-CommonJS
-Eksempel på CommonJS brug af DAWA-Autocomplete2 
+Eksempel på brug af DAWA-Autocomplete2 som CommonJS modul
 
 Build:
 1. npm install
